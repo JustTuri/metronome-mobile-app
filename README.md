@@ -17,7 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
--Byte index 0: command state (start/stop/update)
--Byte index 1: BPM
--Byte index 2: time signature 
--Byte index 3: vibration intensity
+- Byte index 0: command state (start/stop/update)
+- Byte index 1: BPM
+- Byte index 2: time signature 
+- Byte index 3: vibration intensity
